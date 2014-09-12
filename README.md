@@ -10,7 +10,7 @@ Crystal Echoes has nine material worlds, each with its own flavor. Game Masters 
 
 The default material worlds include:
 
-* Aulibarr - A high magic world where the majority of the populace lives in a giant nation-sized city. Outside the city the barriers between the ethereal plane and the material plane have evaporated -- allowing powerful monsters to roam the world. Three continents dominate the surface.
+* Aulibarr - A high magic world where the majority of the populace lives in a giant nation-sized city. Outside the city the barriers between the ethereal plane and the plane of shadow have evaporated -- allowing powerful monsters to roam the world. Three continents dominate the surface.
 * Sorav - A traditional D&D world set on a Pangaea continent, with exotic surrounding islands. Beware of dragons!
 * Suiru - Ahoy! A water world covered in archipeligos and dominated by sea-faring folk. Pirates, Privateers, Merfolk, Marines and all sorts of dangerous adventures await you on the Thirteen Oceans!
 * Placeholder --
