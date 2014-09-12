@@ -1,0 +1,12 @@
+The hum of creation began with a chorus of crystals. Each crystal moved in the nothingness, and as it moved, the nothingness took form. The crystals sang -- a sixty-four part harmony filled the cosmos with the perfect Song. The Crystal Song began. The light separated from the shadow, and the world coalesced beneath. Though a mere echo of the Crystal Song, the world moved in the nothingness. The world was a ship in a raging sea; the sky black and the waves silent.
+
+The world was carved by crystal melodies: each river, canyon, sea, mountain, and forest was born from The Song. Life arose from the echoes across the world. Creatures big and small were born. The young world was peaceful, and the creatures of the world bathed in the Song. Each sound wave rippled through the fabric of the cosmos and filled everything with splendor.
+
+The Shattering
+But The Song was not to last. With a final breath, The Song ended. As each crystal stopped, it shattered -- filling the cosmos with otherworldly light. With each shattered crystal, creatures began to awaken. Some ran in terror and hid beneath the earth. Some were consumed by rage and slaughtered all around them. Some stood their ground and aided others. When the song finally stopped, the world was bathed not in song, but in blood and war.
+
+The final echoes of The Song tore the world into nine layers. Each layer of the world became its own world, stuck impossibly to the other layers of the world, living simultaneously in the same space.
+
+Exodar, the first world, formed closest to The Shattering and received the worst beating. Exodar crashed as mountains erupted across the world, fires boiled the oceans, and energies morphed the world's life into monsterous versions of their formers selves. Now, Exodar is a world of impossible extremes: the sharpest, tallest snow-capped mountains, the lowest, dryest, desert valleys, hurricanes that cover a quarter of the surface of the world, and monsterous creatures that survive the constant turmoil. This world is completely inhospitable.
+
+As each crystal shattered it left a scar in the fabric of reality. The larger crystal fragments became the gods. Each scar became its own realm, and the gods took seats of power in each realm. Every other crystal fragment, save twelve, transformed into otherworldly creatures, who turned their alligance to the gods. Twelve of the fragments buried themselves in the nine layers of the material world, where their power remained inert.
