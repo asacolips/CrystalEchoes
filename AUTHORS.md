@@ -1,7 +1,7 @@
 Crystal Echoes is written by a community of contributors.
 
 ## Lead Author
-* David Echols <dhechols@gmail.com> `@echohack <https://github.com/echohack>`_
+* David Echols - <dhechols@gmail.com> - [@echohack](https://github.com/echohack)
 
 ## Core Authors
 
