@@ -31,4 +31,4 @@ Not yet, but we'll be using [pandoc](http://johnmacfarlane.net/pandoc/README.htm
 2. Download [Atom](https://atom.io/) or your favorite markdown editor.
 3. Download a GitHub client for your OS or use your favorite git client. - [GitHub For Windows](https://windows.github.com/) - [GitHub For Mac](https://mac.github.com/)
 4. Fork [the repository](github.com/echohack/CrystalEchoes) on GitHub to start making changes to the master branch (or branch off of it).
-5. Send a pull request [associated with the issue](https://github.com/blog/957-introducing-issue-mentions) you opened. If you want to close the issue, reference it in [your commit message](https://github.com/blog/1506-closing-issues-via-pull-requests).
+5. Send a pull request [associated with the issue](https://github.com/blog/957-introducing-issue-mentions) you opened. If you want to close the issue, reference it in [your commit message](https://github.com/blog/1506-closing-issues-via-pull-requests). Make sure to add yourself to AUTHORS. Give yourself a fancy title too!
