@@ -29,6 +29,6 @@ Not yet, but we'll be using [pandoc](http://johnmacfarlane.net/pandoc/README.htm
 
 1. Create [an issue](https://github.com/echohack/CrystalEchoes/issues) about the topic you wish to contribute. This will help open discussion to the community and help track any changes.
 2. Download [Atom](https://atom.io/) or your favorite markdown editor.
-3. Download a GitHub client for your OS. [Windows](https://windows.github.com/) [Mac](https://mac.github.com/) or use your favorite git client.
+3. Download a GitHub client for your OS or use your favorite git client. - [GitHub For Windows](https://windows.github.com/) - [GitHub For Mac](https://mac.github.com/)
 4. Fork [the repository](github.com/echohack/CrystalEchoes) on GitHub to start making changes to the master branch (or branch off of it).
 5. Send a pull request [associated with the issue](https://github.com/blog/957-introducing-issue-mentions) you opened. If you want to close the issue, reference it in [your commit message](https://github.com/blog/1506-closing-issues-via-pull-requests).
