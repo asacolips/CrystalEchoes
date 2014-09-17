@@ -18,7 +18,7 @@ The default material worlds include:
 * Placeholder --
 * Placeholder --
 * Regiel - A dark world with low magic, little hope, and constant war. The souls of the dead are often blocked from entering the Outer Planes, and cause an incredible problem with the undead. Prayers go unanswered, magic fails, and the even the best heroes crumble in the onslaught.
-* Exodar - An extreme world of constant storms, earthquakes, erupting volcanoes, tortuous deserts, and wild magic. Landmasses are formed and destroyed in months instead of millinea. Only the most dangerous monsters, brave adventurers, and the crazy ever go here.
+* Renda - An extreme world of constant storms, earthquakes, erupting volcanoes, tortuous deserts, and wild magic. Landmasses are formed and destroyed in months instead of millinea. Only the most dangerous monsters, brave adventurers, and the crazy ever go here.
 
 ## Builds
 
